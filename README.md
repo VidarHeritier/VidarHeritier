@@ -5,7 +5,7 @@
      </div>
      
  <div>
-      <h1 style="font-family:verdana" style="font-size:300px" align="center">Vidars VirVar</h1>
+      <h1 align="center">Vidars VirVar</h1>
  </div>
  </header>
  
