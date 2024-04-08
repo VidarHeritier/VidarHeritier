@@ -1,5 +1,5 @@
  <header id="navbar">
-      <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" scale="30%" />
+      <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="200" height="200" />
       <div class="placeholder"><h2 class="placeholder-text">Vidars VirVar</h2></div>
  </header>
 
