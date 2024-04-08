@@ -1,12 +1,6 @@
-<style type="text/css">
-.centerImage
-{
- text-align:center;
- display:block;
-}
-</style>
+
  <header id="navbar">
-     <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="60" height="55" class="centerImage"
+     <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" class="centerImage"
  />
       <div class="placeholder"><h2 class="placeholder-text">Vidars VirVar</h2></div>
  </header>
