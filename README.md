@@ -1,6 +1,6 @@
  <header id="navbar">
-     <center> <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="60" height="55" 
- /> </center>
+     <center><img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="60" height="55" 
+ /></center>
       <div class="placeholder"><h2 class="placeholder-text">Vidars VirVar</h2></div>
  </header>
 
