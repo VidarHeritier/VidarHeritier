@@ -1,7 +1,7 @@
 <div><img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" >
 <img align="right" src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" ></div>
      
- <div class="placeholder"><h2 class="placeholder-text">Vidars VirVar</h2></div>
+ <div><h2 align="center">Vidars VirVar</h2></div>
  
 
 <!--
