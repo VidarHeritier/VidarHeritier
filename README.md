@@ -5,7 +5,7 @@
      </div>
      
  <div>
-      <font size="6" face="verdana" color="green">Vidars VirVar</font>
+      <font size="6" face="arial" color="#008000">Vidars VirVar</font>
  </div>
  </header>
  
