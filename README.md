@@ -1,9 +1,8 @@
 
- <header id="navbar">
      <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" align="center"
  />
       <div class="placeholder"><h2 class="placeholder-text">Vidars VirVar</h2></div>
- </header>
+ 
 
 <!--
 **VidarHeritier/VidarHeritier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
