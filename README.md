@@ -10,8 +10,8 @@
  </header>
  
 <body>
-     <ul>
+     <li>
           <p> Coding is Life</p>
-     </ul>
+     </li>
      
 </body>
