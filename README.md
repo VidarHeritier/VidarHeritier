@@ -5,7 +5,7 @@
      </div>
      
  <div>
-      <h1 style="color: #87CEEB" >Vidars VirVar</h1>
+      <h1 style="color: #87CEEB" align="center" >Vidars VirVar</h1>
  </div>
  </header>
  
