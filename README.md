@@ -1,4 +1,7 @@
-### Hi there 👋
+ <header id="navbar">
+      <img src="./Images/LOOGOO.png" alt="3 Vs logo" id="logo" />
+      <div class="placeholder"><h2 class="placeholder-text">Vidars VirVar</h2></div>
+ </header>
 
 <!--
 **VidarHeritier/VidarHeritier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
