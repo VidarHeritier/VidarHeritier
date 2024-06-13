@@ -5,11 +5,13 @@
      </div>
      
  <div>
-     <h1 align="center" color="blue">Vidars VirVar</h1>
+     <h1 align="center">Vidars VirVar</h1>
  </div>
  </header>
  
 <body>
+     <pre>Har nå
+     vært</pre>
      <li>Coding is Life</li>
      <li>Coding is All</li>
 </body>
