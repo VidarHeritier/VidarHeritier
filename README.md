@@ -5,7 +5,7 @@
      </div>
      
  <div>
-     <code align="center" size="12rem">Vidar</code>
+     <code align="center" font-size="12rem">Vidar</code>
  </div>
  </header>
  
