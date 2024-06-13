@@ -11,5 +11,4 @@
  
 <body>
      <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende:<pre>Basics:<pre><li>HTML</li><li>CSS</li><li>Javascript</li></pre><pre>
-          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=rose_pine&show_icons=true)
      </body>
