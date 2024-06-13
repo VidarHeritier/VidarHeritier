@@ -5,13 +5,12 @@
      </div>
      
  <div>
-     <code align="center" font-size="12rem">Vidar</code>
+     <code align="center" font-size="12rem">En kort introduskjon om meg.</code>
  </div>
  </header>
  
 <body>
-     <pre>Har nå
-     vært</pre>
-     <li>Coding is Life</li>
-     <li>Coding is All</li>
+     <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg <code><li>HTML</li>
+     <li>CSS</li></code> </pre>
+     
 </body>
