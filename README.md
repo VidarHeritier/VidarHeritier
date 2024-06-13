@@ -5,7 +5,7 @@
      </div>
      
  <div>
-     <h1 align="center" color="whitesmoke">Vidars VirVar</h1>
+     <h1 align="center" color="blue">Vidars VirVar</h1>
  </div>
  </header>
  
