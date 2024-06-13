@@ -1,5 +1,5 @@
-<header>
-     <div margin-bottom="20">
+<header margin-bottom="20px">
+     <div>
           <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" >
           <img align="right" src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" >
      </div>
