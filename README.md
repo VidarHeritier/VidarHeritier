@@ -10,7 +10,6 @@
  </header>
  
 <body>
-     <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende:
-          <pre>Basics:<pre><li>HTML</li><li>CSS</li><li>Javascript</li></pre>
+     <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende:<pre>Basics:<pre><li>HTML</li><li>CSS</li><li>Javascript</li></pre>
      
 </body>
