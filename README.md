@@ -10,7 +10,7 @@
  </header>
  
 <body>
-     <pre background="blue">Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende verktøy:
+     <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende verktøy:
 Figma, HTML, CSS og JS. Samt React, Node og Next i kombinasjon med TypeScript og Tailwind. På backend siden 
 har vi vært innom SQL og C#.</pre>          
 <pre>Interressene mine spenner fra fotografi og design, som jeg prøver å bruke en del tid på. Noe du kan se her eller her.
