@@ -10,7 +10,6 @@
  </header>
  
 <body>
-     <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg <code><li>HTML</li>
-     <li>CSS</li></code> </pre>
+     <pre>Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg <li>HTML</li><li>CSS</li></pre>
      
 </body>
