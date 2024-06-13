@@ -5,7 +5,7 @@
      </div>
      
  <div>
-      <h1 align="center" transform="translateX(150px)">Vidars VirVar</h1>
+      <h1 align="center" transform="translateX(-150px)">Vidars VirVar</h1>
  </div>
  </header>
  
