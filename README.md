@@ -20,4 +20,4 @@ brett- og TV-spill, Film og serier, god mat og ikke minst venner og familie.
 <pre>Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.</pre>
      </body>
 
-[![Vidars supre stats](https://github-readme-stats.vercel.app/api?username=VidarHeritier)](https://github.com/VidarHeritier/github-readme-stats)
+[![Vidars supre stats](https://github-readme-stats.vercel.app/api?username=VidarHeritier&show_icons=true)](https://github.com/VidarHeritier/github-readme-stats)
