@@ -5,7 +5,7 @@
      </div>
      
  <div>
-     <code align="center" font-size="12rem">En kort introduskjon om meg.</code>
+     <code align="center" font-size="12rem">Litt om meg.</code>
  </div>
  </br>
  </header>
