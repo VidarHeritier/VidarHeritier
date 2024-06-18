@@ -11,7 +11,7 @@
  </header>
  
 <body>
-Har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende verktøy:
+Jeg har nå gått på IT-kurs hos Kodehode i over et halvt år. På denne tiden har jeg lært meg følgende verktøy:
 Figma, React, Node, JS, Next i kombinasjon med TypeScript og Tailwind. På backend siden har vi vært innom SQL 
 og C#.</br>
      </br>
