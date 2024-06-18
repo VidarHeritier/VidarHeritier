@@ -14,9 +14,9 @@
 Figma, React, Node, JS, Next i kombinasjon med TypeScript og Tailwind. På backend siden har vi vært innom SQL 
 og C#.</pre>          
 <pre>Interressene mine spenner fra fotografi og design, som jeg prøver å bruke en del tid på. Noe du kan se <a href="https://vidarheritier.myportfolio.com/work" target="_blank">her</a>
-eller <a href="https://www.instagram.com/virvarart/" target="_blank">der</a>. 
-Der jeg stort sett bruker Photoshop og Illustrator. Ellers er jeg glad i idrett og friluft, brett- og TV-spill, 
-Film og serier, god mat og ikke minst venner og familie.
+eller <a href="https://www.instagram.com/virvarart/" target="_blank">der</a>. Der jeg stort sett bruker Photoshop 
+og Illustrator. Ellers er jeg glad i idrett og friluft, brett- og TV-spill, film og serier, god mat og ikke minst
+venner og familie.
 </pre>
 <pre>Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.</pre>
      </body>
