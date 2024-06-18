@@ -23,5 +23,7 @@ venner og familie.
      </br>
 Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
      </body>
-
+</br>
+     </br></br>
+     </br>
 [![Vidars supre stats](https://github-readme-stats.vercel.app/api?username=VidarHeritier&theme=rose_pine&show_icons=true)](https://github.com/VidarHeritier/github-readme-stats)
