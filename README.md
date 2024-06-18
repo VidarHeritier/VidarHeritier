@@ -7,6 +7,7 @@
  <div>
      <code align="center" font-size="12rem">En kort introduskjon om meg.</code>
  </div>
+ </br>
  </header>
  
 <body>
