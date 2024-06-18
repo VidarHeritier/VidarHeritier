@@ -3,7 +3,8 @@
           <img src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" >
           <img align="right" src="./LOOGOO.png" alt="3 Vs logo" id="logo" width="40" height="37" >
      </div>
-     
+     </br>
+     </br>
  <div>
      <code align="center" font-size="12rem">Litt om meg.</code>
  </div>
