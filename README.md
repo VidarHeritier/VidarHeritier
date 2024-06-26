@@ -24,7 +24,7 @@ venner og familie.
      </br>
 Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
-[Vidar Heritier](mailto:vidarheritier@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[Vidar Heritier](mailto:vidarheritier@gmail.com?)
      </body>
 </br>
      </br>
