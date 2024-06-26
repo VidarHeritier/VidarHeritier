@@ -25,7 +25,15 @@ venner og familie.
 Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
      </br>
-<div align="center" style="display: flex; flex-direction: row;><h6>Nå meg på</h6><h1 ><a href="mailto:vidarheritier&#64;gmail.com"> 📧 </a></h1> <h6>med en gang</h6></div>
+     <section data-markdown>
+  <textarea data-template>
+<div align="center"class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
+     <h6>Nå meg på</h6><!-- .element: style="margin: 10px; padding: 20px;"-->
+     <h1 ><a href="mailto:vidarheritier&#64;gmail.com"> 📧 </a></h1><!-- .element: style="margin: 10px; padding: 20px;"-->
+     <h6>med en gang</h6><!-- .element: style="margin: 10px; padding: 20px;"-->
+</div>
+        </textarea>
+</section>
      </body>
 </br>
      </br>
