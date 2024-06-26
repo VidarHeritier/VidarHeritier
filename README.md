@@ -26,7 +26,7 @@ Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
      </br>
 
-<pre align="center"><h6>Nå meg på<a href="mailto:vidarheritier&#64;gmail.com" width="40" height="25"> 📧 </a>med en gang</h6>
+<pre align="center"><h6>Nå meg på<a href="mailto:vidarheritier&#64;gmail.com"><h1>📧</h1></a>med en gang</h6>
 </pre>
 </body>
 </br>
