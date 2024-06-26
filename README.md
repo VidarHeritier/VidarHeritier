@@ -25,8 +25,10 @@ venner og familie.
 Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
      </br>
+<p dir="auto">Jeg kan nås her:<br>
+     <h1><a href="mailto:vidarheritier&#64;gmail.com">📧</a></h1>
+</p>
 
-Jeg kan nås her:<h1><a href="mailto:vidarheritier&#64;gmail.com">📧</a></h1>
  </br>
      </br>
 </body>
