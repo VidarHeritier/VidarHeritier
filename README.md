@@ -26,14 +26,10 @@ Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
      </br>
 
-<h6>Nå meg her:</h6><h1><a href="mailto:vidarheritier&#64;gmail.com">📧</a></h1>
+Jeg kan nås her:<h1><a href="mailto:vidarheritier&#64;gmail.com">📧</a></h1>
  </br>
      </br>
 </body>
 </br>
-     </br>
-</br>
-     </br>
-    
      
 [![Vidars supre stats](https://github-readme-stats.vercel.app/api?username=VidarHeritier&theme=rose_pine&show_icons=true)](https://github.com/VidarHeritier/github-readme-stats)
