@@ -22,10 +22,10 @@ og Illustrator. Ellers er jeg glad i idrett og friluft, brett- og TV-spill, film
 venner og familie.
 </br>
      </br>
-Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves. @
+Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
      </br>
-<h2><a href="mailto:vidarheritier&#64;gmail.com">@</a></h2>
+<h2 align="center"><a href="mailto:vidarheritier&#64;gmail.com">@</a></h2>
      </body>
 </br>
      </br>
