@@ -24,7 +24,8 @@ venner og familie.
      </br>
 Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
-<a href="mailto:vidarheritier&#64;gmail.com">@me</a>
+     </br>
+<a href="mailto:vidarheritier&#64;gmail.com">@</a>
      </body>
 </br>
      </br>
