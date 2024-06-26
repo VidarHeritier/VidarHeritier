@@ -27,7 +27,7 @@ Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
      </br>
      </br>
      </br>
-<div>Jeg kan nås her: <a href="mailto:vidarheritier&#64;gmail.com?subject=%5BGitHub%5D%20Source%20Han%20Sans"><h1>📧</h1>
+<div>Jeg kan nås her: <a href="mailto:vidarheritier&#64;gmail.com"><h1>📧</h1>
 </div>
  </br>
      </br>
