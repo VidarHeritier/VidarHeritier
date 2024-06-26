@@ -27,7 +27,7 @@ Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
      </br>
      </br>
      </br>
-<div>Jeg kan nås her: <a href="mailto:vidarheritier&#64;gmail.com"><h1>📧</h1>
+<div>Jeg kan nås her: </br> </br> <a href="vidarheritier@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
  </br>
      </br>
