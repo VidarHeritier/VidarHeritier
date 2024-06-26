@@ -25,7 +25,7 @@ venner og familie.
 Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
 </br>
      </br>
-<h1 align="center"><a href="mailto:vidarheritier&#64;gmail.com">Nå meg på 📧 nå med en gang</a></h1>
+<div align="center"><h3>Nå meg på<h1 ><a href="mailto:vidarheritier&#64;gmail.com"> 📧 nå med en gang</a></h1> med en gang</h3></div>
      </body>
 </br>
      </br>
