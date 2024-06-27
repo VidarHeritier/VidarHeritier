@@ -27,6 +27,13 @@ Mine styrker er nok i detaljene. Hvordan sider ser ut, navigeres og oppleves.
      </br>
      </br>
      </br>
+<details open>
+<summary>Her er noen av prosjektene mine ▼</summary>
+<br>
+| Portfolio              | Password generator     |
+| ---------------------- | ---------------------- |
+| ![cat](images/cat.png) | ![Password generator](https://i.ibb.co/bgKJPtp/Screenshot-2024-06-25-at-15-01-18.png) |
+</details>
 <div>Jeg kan nås her: </br> </br> <a href="mailto:vidarheritier@gmail.com?subject=%5BGitHub%5D%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=lightcoral"/></a>
 </div>
  </br>
